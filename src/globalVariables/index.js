@@ -1,0 +1,1 @@
+export const ROOT_URL = "https://cdnlogapi.azurewebsites.net/"
