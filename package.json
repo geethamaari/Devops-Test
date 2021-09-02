@@ -32,7 +32,7 @@
     "webpack-dev-server": "2.9.7"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "bootstrap": "4.0.0",
     "core-js": "^3.3.4",
